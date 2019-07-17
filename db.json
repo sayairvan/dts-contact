@@ -31,13 +31,13 @@
       "imageUrl" : "https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-22-512.png"
     },
     {
-      "name"     : "Rooney"
-      "phone"    : 12345
+      "name"     : "Rooney",
+      "phone"    : 12345,
       "imageUrl" : "https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-21-512.png"
     },
     {
-      "name"     : "R. Kane"
-      "phone"    : 12345
+      "name"     : "R. Kane",
+      "phone"    : 12345,
       "imageUrl" : "https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-26-512.png"
     }
     
